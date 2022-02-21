@@ -1,0 +1,1 @@
+Fala fellas, você que trabalha com memoria ram, placa de vídeo, vamo fazer um projetinho? 
